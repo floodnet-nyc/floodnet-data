@@ -1,5 +1,7 @@
 # FloodNet data repository
-Repository to house information on FloodNet data including CSV exports and API
+Repository to house information on FloodNet data including CSV exports and API.
+
+[Information and instructions on how to access the data can found here](https://docs.google.com/document/d/1fyryGTz2h6lSTPsXJEFqMSWjZJiF1Q-729yeh2AZ7OI/edit?usp=sharing).
 
 ---
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
